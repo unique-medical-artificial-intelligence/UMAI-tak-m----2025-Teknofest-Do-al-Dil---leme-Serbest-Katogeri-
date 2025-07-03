@@ -34,8 +34,9 @@ Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
   pip3 install -r requirements.txt
 
 💭Veri Seti Bağlantısı
+[DRiVE DOSYASI]
 
-https://drive.google.com/drive/folders/
+(https://www.youtube.com/)
 
 
 📁 Dosya Açıklamaları
