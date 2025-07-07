@@ -31,7 +31,9 @@ Projenin çalıştırılması için gerekli tüm bağlılıkların listesini [re
 Ayrıca çalışmalarımızın hepsi Google Colab ortamında yapılmıştır. 
 Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
 
-  pip3 install -r requirements.txt
+import numpy
+vs vs
+
 
 ## 💭Veri Seti Bağlantısı
 Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ulaşabilirsiniz.
@@ -41,14 +43,15 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 | Dosya Adı | Açıklaması |
 |----------:|------------|
-|          1|  JavaScript|
-|          2|  Python    |
-|          3|  SQL       |
+|requiements|  ne kazım  |
+| sunum.pptx|TAkım sunumu|
+|KODMEDv4   |en son surum|
 
 
 
 ## 🚀 Katkılar ve Yenilik
-
+2.versiyonda bunu ekledık
+3.versıyonda sunu ekledık
 
 
 
