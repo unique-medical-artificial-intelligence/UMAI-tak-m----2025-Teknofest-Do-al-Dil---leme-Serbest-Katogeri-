@@ -52,7 +52,7 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 - Burak Cevat Şahin
 - Tayfun
 - Eymen Durna
-- Emir
+- Emir Güven
 
 
 
