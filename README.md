@@ -27,14 +27,14 @@ TEKNOFEST 2025 Doğal Dil İşleme Serbest Katogeri Yarışması için oluşturu
 
 ## 🪢Gereklilikler
 
-Projenin çalıştırılması için gerekli tüm bağlılıkların listesini requirements.txt sayfasında bulabilirsiniz. Veri Seti bağlantısı aşağıda olucaktır .Ayrıca çalışmalarımızın hepsi Google Colab ortamında yapılmıştır. 
-
+Projenin çalıştırılması için gerekli tüm bağlılıkların listesini [requirements.txt](https://www.youtube.com/shorts/_0vlSars08g) sayfasında bulabilirsiniz. Veri Seti bağlantısı aşağıda olucaktır.
+Ayrıca çalışmalarımızın hepsi Google Colab ortamında yapılmıştır. 
 Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
 
   pip3 install -r requirements.txt
 
 ## 💭Veri Seti Bağlantısı
-Veri setimize buradaki [linkten](https://www.youtube.com/) ulaşabilirsiniz.
+Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ulaşabilirsiniz.
 
 
 ## 📁 Dosya Açıklamaları
@@ -60,3 +60,6 @@ Veri setimize buradaki [linkten](https://www.youtube.com/) ulaşabilirsiniz.
 ## Lisans
 
 Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans]() sayfasına bakın.
+
+## Kaynaklar
+
