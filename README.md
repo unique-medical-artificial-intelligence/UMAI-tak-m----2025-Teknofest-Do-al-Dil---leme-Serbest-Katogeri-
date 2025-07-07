@@ -50,7 +50,7 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 - Ahmet Eren Ünler
 - Burak Cevat Şahin
-- Tayfun
+- Tayfun Sağlam
 - Eymen Durna
 - Emir Güven
 
@@ -58,7 +58,7 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 ## Lisans
 
-Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans]() sayfasına bakın.
+Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans](https://github.com/unique-medical-artificial-intelligence/UMAI-tak-m----2025-Teknofest-Do-al-Dil---leme-Serbest-Katogeri-/blob/main/LICENSE) sayfasına bakın.
 
 ## Kaynaklar
 
