@@ -10,15 +10,6 @@ TEKNOFEST 2025 Doğal Dil İşleme Serbest Katogeri Yarışması için oluşturu
 -
 
 
-## 👥 Takım Üyeleri
-
-- Ahmet Eren Ünler
-- Burak Cevat Şahin
-- Tayfun
-- Eymen Durna
-- Emir
-
-
 ## 🧠 Eğitim Sürecinden Çıkarımlar
 -
 -
@@ -35,7 +26,7 @@ import numpy
 vs vs
 
 
-## 💭Veri Seti Bağlantısı
+### 💭Veri Seti Bağlantısı
 Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ulaşabilirsiniz.
 
 
@@ -49,14 +40,18 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 
 
-## 🚀 Katkılar ve Yenilik
+## 🚀 Sürümler ve Yenilikler
 2.versiyonda bunu ekledık
 3.versıyonda sunu ekledık
 
 
+## 👥 Takım Üyeleri
 
-## 📈 Yapılabilecek İyileştirmeler
-
+- Ahmet Eren Ünler
+- Burak Cevat Şahin
+- Tayfun
+- Eymen Durna
+- Emir
 
 
 
