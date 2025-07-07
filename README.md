@@ -1,16 +1,16 @@
 
-🏛️ KOD-MED
+# 🏛️ KOD-MED
 
 TEKNOFEST 2025 Doğal Dil İşleme Serbest Katogeri Yarışması için oluşturuldu
 
 
-🎯 Projenin Amacı
+## 🎯 Projenin Amacı
 -
 -
 -
 
 
-👥 Takım Üyeleri
+## 👥 Takım Üyeleri
 
 - Ahmet Eren Ünler
 - Burak Cevat Şahin
@@ -19,13 +19,13 @@ TEKNOFEST 2025 Doğal Dil İşleme Serbest Katogeri Yarışması için oluşturu
 - Emir
 
 
-🧠 Eğitim Sürecinden Çıkarımlar
+## 🧠 Eğitim Sürecinden Çıkarımlar
 -
 -
 -
 
 
-🪢Gereklilikler
+## 🪢Gereklilikler
 
 Projenin çalıştırılması için gerekli tüm bağlılıkların listesini requirements.txt sayfasında bulabilirsiniz. Veri Seti bağlantısı aşağıda olucaktır .Ayrıca çalışmalarımızın hepsi Google Colab ortamında yapılmıştır. 
 
@@ -33,36 +33,30 @@ Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
 
   pip3 install -r requirements.txt
 
-💭Veri Seti Bağlantısı
-[DRiVE DOSYASI]
-
-(https://www.youtube.com/)
+## 💭Veri Seti Bağlantısı
+[DRiVE](https://www.youtube.com/)
 
 
-📁 Dosya Açıklamaları
+## 📁 Dosya Açıklamaları
 
-Dosya	Açıklama
-
-
-
-🚀 Katkılar ve Yenilik
+| Dosya Adı | Açıklaması |
+|----------:|------------|
+|          1|  JavaScript|
+|          2|  Python    |
+|          3|  SQL       |
 
 
 
-
-📈 Yapılabilecek İyileştirmeler
+## 🚀 Katkılar ve Yenilik
 
 
 
 
-Lisans
-
-Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için LİSANS sayfasına bakın.
+## 📈 Yapılabilecek İyileştirmeler
 
 
-🔗 Referanslar
-Teknofest 2024 1.si Reincames Takımının GitHub Reposu:Teknofest Proje GitHub
-Veri Seti - Hugging Face: Hukuk Veri Seti Hugging Face
-Geliştirdiğim Modeller: Benim Modellerime Huggigface hesabımdan erişebilirsiniz.
-Base Model:Turkish-NLP/t5-efficient-base-turkish
 
+
+## Lisans
+
+Bu proje Apache lisansı altında lisanslanmıştır. Daha fazla bilgi için [Lisans]() sayfasına bakın.
