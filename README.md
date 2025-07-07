@@ -22,8 +22,9 @@ Projenin çalıştırılması için gerekli tüm bağlılıkların listesini [re
 Ayrıca çalışmalarımızın hepsi Google Colab ortamında yapılmıştır. 
 Gerekli kütüphaneleri kurmak için aşağıdaki kodu çalıştırabilirsiniz.
 
-import numpy
-vs vs
+```bash
+  import numpy
+```
 
 
 ### 💭Veri Seti Bağlantısı
