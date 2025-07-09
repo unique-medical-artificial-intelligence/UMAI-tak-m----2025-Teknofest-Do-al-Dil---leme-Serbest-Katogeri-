@@ -5,13 +5,13 @@ TEKNOFEST 2025 Doğal Dil İşleme Serbest Katogeri Yarışması için oluşturu
 
 
 ## 🎯 Projenin Amacı
--
+- Yarışmada 1. olmak
 -
 -
 
 
 ## 🧠 Eğitim Sürecinden Çıkarımlar
--
+- Süre önemli
 -
 -
 
@@ -33,16 +33,17 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 
 ## 📁 Dosya Açıklamaları
 
-| Dosya Adı | Açıklaması |
-|----------:|------------|
-|requiements|  ne kazım  |
-| sunum.pptx|TAkım sunumu|
-|KODMEDv4   |en son surum|
+| Dosya Adı      | Açıklaması         |
+|----------:     |------------        |
+|requiements     |  ne kazım          |
+| sunum.pptx     |TAkım sunumu        |
+|KODMEDv4        |en son surum        |
 
 
 
 ## 🚀 Sürümler ve Yenilikler
 2.versiyonda bunu ekledık
+
 3.versıyonda sunu ekledık
 
 
@@ -53,7 +54,6 @@ Veri setimize buradaki [linkten](https://www.youtube.com/shorts/_0vlSars08g) ula
 - Tayfun Sağlam
 - Eymen Durna
 - Emir Güven
-
 
 
 ## Lisans
