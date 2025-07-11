@@ -5,9 +5,13 @@ TEKNOFEST 2025 Doğal Dil İşleme Serbest Katogeri Yarışması için oluşturu
 
 
 ## 🎯 Projenin Amacı
-- Yarışmada 1. olmak
--
--
+- Hekimlerin iş yükünü azaltmak: Klinik süreçlerde zaman alan manuel tıbbi kodlama ve dokümantasyon işlerini otomatikleştirerek, hekimlerin asıl görevlerine daha fazla odaklanmalarını sağlamak.
+
+- Yüksek kaliteli sağlık dokümantasyonu oluşturmak: Doğal dil işleme teknolojileri ile teşhis-tedavi tutarlılığını artırarak, daha güvenilir ve detaylı hasta kayıtları üretmek.
+
+- Anlık akademik destek sağlamak: Hekimlere, teşhis sırasında ilgili literatür ve benzer vakaları sunarak, kanıta dayalı tıp kararlarını kolaylaştırmak.
+
+- Türkçe tıbbi metinlere özel yapay zeka çözümleri geliştirmek: Türk sağlık sistemine uygun, özgün verilerle eğitilmiş, çok modüllü bir klinik asistan platformu (KOD-MED) inşa ederek yerli yapay zeka teknolojilerine katkı sunmak.
 
 
 ## 🧠 Eğitim Sürecinden Çıkarımlar
