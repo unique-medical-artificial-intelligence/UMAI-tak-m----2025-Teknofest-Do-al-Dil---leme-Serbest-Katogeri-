@@ -1,7 +1,9 @@
 
 # 🏛️ KOD-MED
 
-TEKNOFEST 2025 Doğal Dil İşleme Serbest Katogeri Yarışması için oluşturuldu
+![UMAI TAKIMI LOGOSU]()
+
+**Bu çalışma, Teknofest 2025 Türkçe Doğal Dil İşleme yarışması "Serbest" kategori yarışması için geliştirilmiştir.**
 
 
 ## 🎯 Projenin Amacı
